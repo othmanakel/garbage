@@ -1,4 +1,4 @@
-package garbagerest;
+package garbage;
 
 public class Greeting {
 
